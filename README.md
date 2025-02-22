@@ -17,12 +17,12 @@ To install and run this project, follow the steps below:
 ### 1. Clone the repo:
 
 ```bash
-git clone 
+git clone https://github.com/Satyam-Mishra-1/RouteMaster
 ```
 
 ### 2. Navigate into the project directory:
 ```bash
-git cd Urban-Mobility
+cd RouteMaster
 ```
 
 ### 3. Set up the virtual environment with the required Python version:
@@ -40,8 +40,8 @@ venv\Scripts\activate
 ```
 For macOS/Linux:
 
-# Download and install Python 3.11.9 (if you don't have it)
-# Download link: https://www.python.org/downloads/release/python-3119/
+#### Download and install Python 3.11.9 (if you don't have it)
+#### Download link: https://www.python.org/downloads/release/python-3119/
 
 # Create a virtual environment
 ```
