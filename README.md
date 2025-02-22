@@ -43,12 +43,12 @@ For macOS/Linux:
 #### Download and install Python 3.11.9 (if you don't have it)
 #### Download link: https://www.python.org/downloads/release/python-3119/
 
-# Create a virtual environment
+#### Create a virtual environment
 ```
 python3.11 -m venv venv
 ```
 
-# Activate the virtual environment
+#### Activate the virtual environment
 source venv/bin/activate
 ### 4. Install dependencies:
 Make sure you have the correct virtual environment activated, and then run:
