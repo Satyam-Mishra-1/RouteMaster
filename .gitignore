@@ -17,7 +17,7 @@ venv.bak/
 # Ignore macOS specific files
 .DS_Store
 
-# Ignore Jupyter Notebook checkpoints
+# Ignore Jupyter Notebook checkpoints 
 .ipynb_checkpoints/
 
 # Ignore system-specific files
